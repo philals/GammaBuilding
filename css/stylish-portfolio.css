@@ -16,6 +16,15 @@ body {
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
+.divider-stripe {
+    color: #fff;
+    background-color: #E57525;
+}
+
+.img-logo{
+    margin: 0px auto 50px auto;
+}
+
 .text-vertical-center {
     display: table-cell;
     text-align: center;
