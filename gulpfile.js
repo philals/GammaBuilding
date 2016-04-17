@@ -23,9 +23,9 @@ gulp.task('browser-reload', function() {
  * Watch html/md files, run jekyll & reload BrowserSync
  */
 gulp.task('watch', function () {
-    gulp.watch('_site/css/**/*', ['browser-reload']);
-    gulp.watch('_site/img/**/*', ['browser-reload']);
-    gulp.watch('_site/js/**/*', ['browser-reload']);
+    gulp.watch('_site/css/**/*.css', ['browser-reload']);
+    gulp.watch('_site/img/**/*.jpg', ['browser-reload']);
+    gulp.watch('_site/js/**/*.js', ['browser-reload']);
     gulp.watch('_site/*.html', ['browser-reload']);
 });
 
