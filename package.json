@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/philals/GammaBuilding_stage.git"
+    "url": "git+https://github.com/philals/GammaBuilding.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/philals/GammaBuilding_stage/issues"
+    "url": "https://github.com/philals/GammaBuilding/issues"
   },
-  "homepage": "https://github.com/philals/GammaBuilding_stage#readme"
+  "homepage": "https://github.com/philals/GammaBuilding#readme"
 }
